@@ -15,9 +15,17 @@ h1{
 }
 
 
+img{
+    height: 200px;
+    position: relative;
+}
 
-
-
+td{
+  text-align: center;
+  table-layout: fixed;
+  height: 60px;
+  border-radius: 5px;
+}
 
 /*#caption{
 	color; red;
