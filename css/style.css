@@ -4,18 +4,16 @@ body{
 }
 
 h1{
-  font-family: sans-serif;
+  font-family: Arial;
   font-size: 50px;
   color: white;
   text-align: center;
-  
-  padding: 20px;
-  border: 2px white;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
 table {
+	border: 2px white;
   font-family: sans-serif;
   font-size: 20px;
   border-spacing: 25px;
@@ -50,6 +48,10 @@ img{
 #main-content{
 	background-color: pink;
 }
+
+margin: 0px;
+  padding: 20px;
+
 
 #blue{
 	color: blue;
