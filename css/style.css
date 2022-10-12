@@ -1,40 +1,38 @@
-body{
-	background-color: black;
-	background-image: url("../images/background.jpg");
+
+body {
+  background-color: black;
+  background-image: url("../images/background.jpg");
 }
 
-h1{
+h1 {
   font-family: sans-serif;
   font-size: 50px;
   color: white;
-  text-align: center;
   text-decoration: underline;
+  text-align: center;
   text-underline-offset: 2px;
-  border: 3px white;
 }
 
 table {
-	border: 2px white;
+  border: 2px white;
   font-family: sans-serif;
   font-size: 20px;
-  border-spacing: 25px;
   width: 100%;
   color: white;
   position: relative;
-  /*max-width: 800px;*/
-  margin-left: auto;
+  border-spacing: 25px;
   margin-right: auto;
+  margin-left: auto;
 }
 
-
-td{
+td {
   text-align: center;
   table-layout: fixed;
-  height: 60px;
   border-radius: 5px;
+  height: 60px;
 }
 
-img{
-    height: 200px;
-    position: 300px;
+img {
+  height: 200px;
+  position: 300px;
 }
