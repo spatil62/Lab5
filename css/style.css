@@ -5,10 +5,10 @@ body{
 
 h1{
   font-family: sans-serif;
-  font-size: 70px;
+  font-size: 50px;
   color: white;
   text-align: center;
-  text-decoration thickness: 10px;
+  text-decoration thickness: 2px;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
@@ -16,11 +16,9 @@ h1{
 table {
   font-family: sans-serif;
   font-size: 20px;
-  border-spacing: 20px;
   table-layout: fixed;
   width: 100%;
   padding: 30px;
-  border: 2px white;
   color: white;
   position: relative;
   max-width: 1000px;
@@ -46,6 +44,7 @@ img{
 /*#caption{
 	color; red;
 }
+ 
 
 #main-content{
 	background-color: pink;
