@@ -18,12 +18,12 @@ table {
   font-size: 20px;
   table-layout: fixed;
   width: 100%;              
-  /*padding: 30px;*/
+  padding: 30px;
   color: white;
   position: relative;                   
   max-width: 100px;
-   /*margin-left: auto;
-  margin-right: auto;         */
+   margin-left: auto;
+  margin-right: auto;         
 }
 
 
