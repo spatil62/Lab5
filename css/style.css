@@ -13,12 +13,13 @@ h1{
 }
 
 table {
-	border: 2px white;
   font-family: sans-serif;
   font-size: 20px;
   border-spacing: 25px;
   table-layout: fixed;
   width: 100%;
+  padding: 20px;
+  border: 2px white;
   color: white;
   position: relative;
   max-width: 800px;
@@ -36,7 +37,7 @@ td{
 
 img{
     height: 200px;
-    position: 300px;
+    position: 200px;
 }
 
 
@@ -50,7 +51,7 @@ img{
 }
 
 margin: 0px;
-  padding: 20px;
+
 
 
 #blue{
