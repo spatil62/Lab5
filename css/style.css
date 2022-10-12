@@ -1,5 +1,5 @@
 body{
-	background-color: black;
+	background-color: white;
 	background-image: url("../images/background.jpg");
 }
 
@@ -39,6 +39,9 @@ img{
     height: 200px;
     position: 400px;
 }
+
+
+
 /*#caption{
 	color; red;
 }
