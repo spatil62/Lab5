@@ -8,8 +8,9 @@ h1{
   font-size: 50px;
   color: white;
   text-align: center;
-  margin: 0px;
-  padding: 0px;
+  
+  padding: 20px;
+  border: 2px white;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -37,7 +38,7 @@ td{
 
 img{
     height: 200px;
-    position: 400px;
+    position: 300px;
 }
 
 
