@@ -3,7 +3,16 @@ body{
 	background-image: url("../images/background.jpg");
 }
 
-
+h1{
+  font-family: sans-serif;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 
 
 
