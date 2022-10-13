@@ -34,5 +34,5 @@ td {
 
 img {
   height: 200px;
-  position: 300px;
+  position: relative;
 }
